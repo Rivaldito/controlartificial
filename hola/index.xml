@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holas on Control Artificial</title>
+    <link>https://controlartificial.gitlab.io/hola/</link>
+    <description>Recent content in Holas on Control Artificial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 10:49:59 -0400</lastBuildDate><atom:link href="https://controlartificial.gitlab.io/hola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pruba2</title>
+      <link>https://controlartificial.gitlab.io/hola/pruba/pruba2/</link>
+      <pubDate>Sun, 13 Dec 2020 10:49:59 -0400</pubDate>
+      
+      <guid>https://controlartificial.gitlab.io/hola/pruba/pruba2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruba</title>
+      <link>https://controlartificial.gitlab.io/hola/pruba/pruba/</link>
+      <pubDate>Sun, 13 Dec 2020 10:48:38 -0400</pubDate>
+      
+      <guid>https://controlartificial.gitlab.io/hola/pruba/pruba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hollaaaa</title>
+      <link>https://controlartificial.gitlab.io/hola/hollaaaa/</link>
+      <pubDate>Sun, 13 Dec 2020 10:09:42 -0400</pubDate>
+      
+      <guid>https://controlartificial.gitlab.io/hola/hollaaaa/</guid>
+      <description>The following
+$\int_{a}^{b} x^2 dx$
+The following
+\[\int_{a}^{b} x^2 dx\]
+\[\LaTeX( \int_{a}^{b} x^2 dx)\]
+Is an integral
+The following
+\[\int_{a}^{b} x^2 dx\]
+Is an integral</description>
+    </item>
+    
+    <item>
+      <title>Hola</title>
+      <link>https://controlartificial.gitlab.io/hola/hola/</link>
+      <pubDate>Sat, 12 Dec 2020 13:13:42 -0400</pubDate>
+      
+      <guid>https://controlartificial.gitlab.io/hola/hola/</guid>
+      <description>sdfasdfa
+\begin{equation} I = \int \rho R^{2} dV \end{equation} 😗
+😗
+$$E_0 $$
+Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
+Block math:
+$ \sigma(t) = \cfrac{1}{1 + e^{-t}} $
+{{ if or .Params.math .Site.Params.math }} {{ partial &amp;ldquo;math.html&amp;rdquo; . }} {{ end }}</description>
+    </item>
+    
+  </channel>
+</rss>
