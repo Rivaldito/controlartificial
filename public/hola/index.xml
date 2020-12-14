@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holas on Control Artificial</title>
-    <link>http://controlartificial.ml/hola/</link>
+    <link>http://www.controlartificial.ml/hola/</link>
     <description>Recent content in Holas on Control Artificial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 10:49:59 -0400</lastBuildDate><atom:link href="http://controlartificial.ml/hola/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 10:49:59 -0400</lastBuildDate><atom:link href="http://www.controlartificial.ml/hola/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pruba2</title>
-      <link>http://controlartificial.ml/hola/pruba/pruba2/</link>
+      <link>http://www.controlartificial.ml/hola/pruba/pruba2/</link>
       <pubDate>Sun, 13 Dec 2020 10:49:59 -0400</pubDate>
       
-      <guid>http://controlartificial.ml/hola/pruba/pruba2/</guid>
+      <guid>http://www.controlartificial.ml/hola/pruba/pruba2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pruba</title>
-      <link>http://controlartificial.ml/hola/pruba/pruba/</link>
+      <link>http://www.controlartificial.ml/hola/pruba/pruba/</link>
       <pubDate>Sun, 13 Dec 2020 10:48:38 -0400</pubDate>
       
-      <guid>http://controlartificial.ml/hola/pruba/pruba/</guid>
+      <guid>http://www.controlartificial.ml/hola/pruba/pruba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hollaaaa</title>
-      <link>http://controlartificial.ml/hola/hollaaaa/</link>
+      <link>http://www.controlartificial.ml/hola/hollaaaa/</link>
       <pubDate>Sun, 13 Dec 2020 10:09:42 -0400</pubDate>
       
-      <guid>http://controlartificial.ml/hola/hollaaaa/</guid>
+      <guid>http://www.controlartificial.ml/hola/hollaaaa/</guid>
       <description>The following
 $\int_{a}^{b} x^2 dx$
 The following
@@ -45,10 +45,10 @@ Is an integral</description>
     
     <item>
       <title>Hola</title>
-      <link>http://controlartificial.ml/hola/hola/</link>
+      <link>http://www.controlartificial.ml/hola/hola/</link>
       <pubDate>Sat, 12 Dec 2020 13:13:42 -0400</pubDate>
       
-      <guid>http://controlartificial.ml/hola/hola/</guid>
+      <guid>http://www.controlartificial.ml/hola/hola/</guid>
       <description>sdfasdfa
 \begin{equation} I = \int \rho R^{2} dV \end{equation} 😗
 😗
